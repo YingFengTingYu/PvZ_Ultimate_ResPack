@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "id": "example.pack",
+  "name": {
+    "zh_cn": "示例资源包",
+    "en": "Example Pack"
+  },
+  "remove": [
+  ]
+}

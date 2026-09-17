@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "id": "pvz_ultimate.dynamic_coin_example",
+  "name": {
+    "zh_cn": "动态掉落物示例",
+    "en": "Dynamic Coin Example"
+  },
+  "remove": [
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "id": "pvz_ultimate.triple_peashooter",
+  "name": {
+    "zh_cn": "三重射手",
+    "en": "Triple Peashooter"
+  },
+  "remove": [
+  ]
+}

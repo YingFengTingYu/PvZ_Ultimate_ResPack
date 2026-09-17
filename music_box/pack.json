@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "id": "pvz_ultimate.example.music_box",
+  "name": {
+    "zh_cn": "Lua 音乐盒示例",
+    "en": "Lua Music Box Example"
+  },
+  "remove": [
+  ]
+}

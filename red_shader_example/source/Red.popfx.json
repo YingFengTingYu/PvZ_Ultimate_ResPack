@@ -1,0 +1,110 @@
+{
+  "Name": "Red",
+  "Language": "slang",
+  "Source": "Red.slang",
+  "Parameters": [],
+  "Techniques": [
+    {
+      "Name": "Default",
+      "Passes": [
+        {
+          "Name": "Red",
+          "VertexEntry": "VSMain",
+          "FragmentEntry": "PSMain"
+        }
+      ]
+    }
+  ],
+  "Targets": [
+    {
+      "Backend": "d3d9",
+      "Format": "d3d9-bytecode",
+      "Compiler": "slang-d3d9",
+      "Profile": "vs_2_0",
+      "CodeKind": "Binary"
+    },
+    {
+      "Backend": "d3d9",
+      "Format": "d3d9-bytecode",
+      "Compiler": "slang-d3d9",
+      "Profile": "ps_3_0",
+      "CodeKind": "Binary"
+    },
+    {
+      "Backend": "d3d11",
+      "Format": "dxbc",
+      "Target": "dxbc",
+      "Profile": "sm_5_0",
+      "CodeKind": "Binary"
+    },
+    {
+      "Backend": "d3d12",
+      "Format": "dxil",
+      "Target": "dxil",
+      "Profile": "sm_6_0",
+      "CodeKind": "Binary"
+    },
+    {
+      "Backend": "vulkan",
+      "Format": "spirv",
+      "Target": "spirv",
+      "Profile": "glsl_450",
+      "CodeKind": "Binary"
+    },
+    {
+      "Backend": "opengl",
+      "Format": "glsl",
+      "Compiler": "slang-hlslcc",
+      "Profile": "glsl_150",
+      "CompileProfile": "sm_5_0",
+      "CodeKind": "Source"
+    },
+    {
+      "Backend": "opengles",
+      "Format": "glsl-es",
+      "Compiler": "slang-hlslcc",
+      "Profile": "essl_100",
+      "CompileProfile": "sm_5_0",
+      "CodeKind": "Source",
+      "MaximumApiVersion": 299
+    },
+    {
+      "Backend": "opengles",
+      "Format": "glsl-es",
+      "Compiler": "slang-hlslcc",
+      "Profile": "essl_300",
+      "CompileProfile": "sm_5_0",
+      "CodeKind": "Source",
+      "MinimumApiVersion": 300
+    },
+    {
+      "Backend": "webgl",
+      "Format": "glsl-es",
+      "Compiler": "slang-hlslcc",
+      "Profile": "essl_300",
+      "CompileProfile": "sm_5_0",
+      "CodeKind": "Source"
+    },
+    {
+      "Backend": "metal",
+      "Format": "msl",
+      "Target": "metal",
+      "Profile": "metal_2_3",
+      "CompileProfile": "-",
+      "CodeKind": "Source"
+    },
+    {
+      "Backend": "webgpu",
+      "Format": "wgsl",
+      "Target": "wgsl",
+      "CodeKind": "Source"
+    },
+    {
+      "Backend": "deko3d",
+      "Format": "dksh",
+      "Compiler": "slang-uam",
+      "Profile": "maxwell",
+      "CodeKind": "Binary"
+    }
+  ]
+}

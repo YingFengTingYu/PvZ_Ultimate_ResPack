@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "id": "pvz_ultimate.example.red_shader",
+  "name": {
+    "zh_cn": "红色着色器示例",
+    "en": "Red Shader Example"
+  },
+  "remove": [
+  ]
+}

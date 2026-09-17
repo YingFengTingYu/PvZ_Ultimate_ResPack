@@ -1,0 +1,5 @@
+[TRIPLE_PEASHOOTER]
+Triple Peashooter
+
+[TRIPLE_PEASHOOTER_TOOLTIP]
+Fires three peas at once

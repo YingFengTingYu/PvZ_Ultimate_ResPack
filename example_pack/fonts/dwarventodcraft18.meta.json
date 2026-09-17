@@ -1,0 +1,26 @@
+{
+  "size": 18,
+  "font_style": {
+    "version": 1,
+    "layout_layer": "fill",
+    "layers": [
+      {
+        "name": "shadow",
+        "bold": 2,
+        "offset": [2, 2],
+        "color": [0, 0, 0, 160]
+      },
+      {
+        "name": "outline",
+        "bold": 1,
+        "color": [40, 70, 10, 255],
+        "color_mode": "fixed_rgb"
+      },
+      {
+        "name": "fill",
+        "color": [180, 240, 80, 255],
+        "color_mode": "fixed_rgb"
+      }
+    ]
+  }
+}

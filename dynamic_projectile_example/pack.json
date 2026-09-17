@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "id": "pvz_ultimate.dynamic_projectile_example",
+  "name": {
+    "zh_cn": "动态子弹示例",
+    "en": "Dynamic Projectile Example"
+  },
+  "remove": [
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": {
+    "zh_cn": "Lua Hook 示例",
+    "en": "Lua Hook Example"
+  },
+  "remove": [
+  ]
+}

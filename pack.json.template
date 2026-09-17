@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": {
+    "zh_cn": "我的资源包",
+    "en": "My Resource Pack"
+  },
+  "remove": [
+  ]
+}

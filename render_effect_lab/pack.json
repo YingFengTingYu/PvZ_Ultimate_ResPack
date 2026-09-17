@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "id": "pvz_ultimate.example.render_effect_lab",
+  "name": {
+    "zh_cn": "RenderEffect 视觉实验室",
+    "en": "RenderEffect Visual Lab"
+  },
+  "remove": [
+  ]
+}

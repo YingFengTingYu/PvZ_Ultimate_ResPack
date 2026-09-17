@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "id": "pvz_ultimate.mod.iz1_level_importer",
+  "name": {
+    "zh_cn": "IZ1 经典关卡导入器",
+    "en": "IZ1 Classic Level Importer"
+  },
+  "remove": [
+  ]
+}
