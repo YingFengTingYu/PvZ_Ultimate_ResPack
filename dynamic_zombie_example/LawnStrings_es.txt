@@ -1,0 +1,10 @@
+[STEEL_BUCKET_ZOMBIE]
+Zombi de cubo de acero
+
+[STEEL_BUCKET_ZOMBIE_DESCRIPTION]
+Su cubo de acero lo hace muy resistente.
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} alta {1370}
+{KEYMETAL}Debilidad:{METAL} Magnetoseta
+{SHORTLINE}
+{FLAVOR}Este zombi cambió el cubo de hierro por uno de acero. Se creía más imponente, hasta que la Magnetoseta le recordó que el metal sigue siendo metal.

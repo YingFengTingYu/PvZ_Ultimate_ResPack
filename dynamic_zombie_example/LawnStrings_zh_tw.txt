@@ -1,0 +1,10 @@
+[STEEL_BUCKET_ZOMBIE]
+鋼桶殭屍
+
+[STEEL_BUCKET_ZOMBIE_DESCRIPTION]
+他的鋼桶頭盔能極大程度地承受傷害。
+{SHORTLINE}
+{KEYWORD}強度：{STAT}高 {1370}
+{KEYWORD}弱點：{STAT}磁力菇
+{SHORTLINE}
+{FLAVOR}鋼桶殭屍把鐵桶升級成了鋼桶。他覺得這樣更有面子，直到磁力菇再次證明金屬就是金屬。
