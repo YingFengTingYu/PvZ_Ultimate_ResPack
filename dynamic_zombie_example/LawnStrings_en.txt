@@ -1,0 +1,10 @@
+[STEEL_BUCKET_ZOMBIE]
+Steel Bucket Zombie
+
+[STEEL_BUCKET_ZOMBIE_DESCRIPTION]
+His steel bucket helmet makes him extremely resistant to damage.
+{SHORTLINE}
+{KEYWORD}Toughness:{STAT} high {1370}
+{KEYMETAL}Weakness:{METAL} magnet-shroom
+{SHORTLINE}
+{FLAVOR}Steel Bucket Zombie upgraded from iron to steel. He thought it made him look tougher, until Magnet-shroom reminded him that metal is still metal.
